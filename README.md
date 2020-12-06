@@ -1,7 +1,7 @@
 ### Hi there 👋
 ЗА СССР
 <br>
-[![](https://github.com/ruzaharsu/svoe/blob/main/Vk.png)](https://vk.com/new_su_2020)[![](https://github.com/ruzaharsu/svoe/blob/main/telegram.png)](https://t.me/ruzahardni)
+[![](https://github.com/ruzaharsu/svoe/blob/main/Vk.png)](https://vk.com/ruzahardni)[![](https://github.com/ruzaharsu/svoe/blob/main/telegram.png)](https://t.me/ruzahardni)
 <!--
 **ruzaharsu/ruzaharsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
