@@ -1,6 +1,5 @@
 ### Hi there 👋
-ЗА СССР
-<br>
+
 
 <br>
 [Постсоветское пространство](https://ruzaharsu.github.io/political-na-postsovet-space/)
