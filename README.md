@@ -11,4 +11,4 @@
 <br>
 [Windows](https://ruzaharsu.github.io/o-windows/)
 <br>
-[![](https://github.com/ruzaharsu/svoe/blob/main/Vk.png)](https://vk.com/id529848206)[![](https://github.com/ruzaharsu/svoe/blob/main/telegram.png)](https://t.me/the_batka)
+
