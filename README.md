@@ -10,7 +10,8 @@
 <br>
 [Windows](https://ruzaharsu.github.io/o-windows/)
 <br>
-[![](https://ruzaharsu.github.io/political-na-postsovet-space/0.png)](mailto:zaharpeprenko2007@ya.ru)
-[![](https://github.com/ruzaharsu/svoe/blob/main/Vk.png)](https://vk.me/club198438193)
-[![](https://github.com/ruzaharsu/svoe/blob/main/telegram.png)](https://t.me/the_batka)
+
+
+[![](https://github.com/ruzaharsu/svoe/blob/main/Vk.png)](https://vk.me/id529848206)
+
 
