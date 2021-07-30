@@ -2,13 +2,13 @@
 
 
 
-[Постсоветское пространство](https://ruzaharsu.github.io/political-na-postsovet-space/)
+[Постсоветское пространство](https://agent-kgb-228.github.io/political-na-postsovet-space/)
 <br>
-[Российская Федерация](https://ruzaharsu.github.io/russia/)
+[Российская Федерация](https://agent-kgb-228.github.io/russia/)
 <br>
-[Игры СССР](https://ruzaharsu.github.io/games)
+[Игры СССР](https://agent-kgb-228.github.io/games)
 <br>
-[Windows](https://ruzaharsu.github.io/o-windows/)
+[Windows](https://agent-kgb-228.github.io/o-windows/)
 <br>
 
 
