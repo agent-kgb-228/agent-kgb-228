@@ -1,17 +1,7 @@
-### Hi there 👋
-
-
-
-[Постсоветское пространство](https://agent-kgb-228.github.io/political-na-postsovet-space/)
+## Hi there 👋
+### ССЫЛКИ
+<a href="mailto:bobyorstroimarket@yandex.ru">bobyorstroimarket@yandex.ru</a>
 <br>
-[Российская Федерация](https://agent-kgb-228.github.io/russia/)
-<br>
-[Игры СССР](https://agent-kgb-228.github.io/games)
-<br>
-[Windows](https://agent-kgb-228.github.io/o-windows/)
-<br>
-[bobyorstroimarket@yandex.ru](mailto:bobyorstroimarket@yandex.ru)
-
-[![](https://github.com/ruzaharsu/svoe/blob/main/Vk.png)](https://vk.me/id529848206)
+<a href="https://vk.com/club198438193" style="color$ #ff0000;">Группа в ВКонтакте "Товарищ.su"</a>
 
 
