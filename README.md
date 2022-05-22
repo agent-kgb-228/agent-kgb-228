@@ -4,11 +4,28 @@
 <br>
 <a href="mailto:bobyorstroimarket@yandex.ru">bobyorstroimarket@yandex.ru</a>
 <br>
-<a href="https://vk.com/club199124251" style="color: #ff0000;">Группа в ВКонтакте "Товарищ.su"</a>
+<a href="https://vk.com/club199124251" style="color: #ff0000;">Группа в ВКонтакте</a>
 <br>
 <img src="putin_53224700.jpg">
 <br>
+
+<pre style="background-color:white; margin:0; padding:0; text-align:left">           _
+          /  \
+         /|oo \
+        (_|  /_)
+         _`@/_ \    _
+        |     | \   \\
+        | (*) |  \   ))
+        |__U__| /  \//
+         _//|| _\   /
+        (_/(_|(____/
+
+</pre>
+
+
   <h2>Благодарность</h2>
+  
+  
 <iframe src="https://yoomoney.ru/quickpay/shop-widget?writer=buyer&targets=&targets-hint=&default-sum=&button-text=11&payment-type-choice=on&hint=&successURL=&quickpay=shop&account=4100116774485382&" width="100%" height="215" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
 <br>
 <iframe width="728" height="200" src="https://widget.qiwi.com/widgets/big-widget-728x200?publicKey=48e7qUxn9T7RyYE1MVZswX1FRSbE6iyCj2gCRwwF3Dnh5XrasNTx3BGPiMsyXQFNKQhvukniQG8RTVhYm3iPzN5bVkEPneDUHwMNKqZt8oqu5sJ2Lc9rdT6uMLk9eb1w5EjoGow4gYvRvoia5BEjLA3mncHx38rW9VmzqjMER4rFuG68f1chmi7Gc3fDB" allowtransparency="true" scrolling="no" frameborder="0"></iframe>
