@@ -8,7 +8,7 @@
 
 <br>
 
-<pre style="background-color:white; margin:0; padding:0; text-align:left">           _
+<pre>           _
           /  \
          /|oo \
         (_|  /_)
