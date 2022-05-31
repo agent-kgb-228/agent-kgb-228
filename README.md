@@ -2,7 +2,7 @@
 ### ССЫЛКИ
 <a href="https://agent-kgb-228.github.io/" style="color: #ffFFFF;">Выйти на главную</a>
 <br>
-<a href="mailto:bobyorstroimarket@yandex.ru">bobyorstroimarket@yandex.ru</a>
+<a href="support@ru-stalin-ussr.ru">support@ru-stalin-ussr.ru</a>
 <br>
 <a href="https://vk.com/club199124251" style="color: #ff0000;">Группа в ВКонтакте</a>
 
