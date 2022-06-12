@@ -1,9 +1,8 @@
-## Hi 👋😁😁
-
+## Hi 👋😁😁 
 <br>
 <a href="https://t.me/agent_kgb_229"><img src="https://old.ru-stalin-ussr.ru/icons8-телеграмма-app.svg" style="width: 32px;"></a>
 <a href="https://vk.com/agent_kgb_228"><img src="https://old.ru-stalin-ussr.ru/icons8-вконтакте.svg" style="width: 32px;"></a>
-<h2 >Способы оплаты</h2>
+<h2 >Способы оплаты💳💳💳</h2>
 <ol>
 <li>На кошелек ЮМани<sup>1</sup>: <b><a href="https://yoomoney.ru/to/4100116774485382" style="margin: 0%; padding: 0%;  text-decoration: none;">4100 1167 7448 5382</a></b> (Онлайн или через банк)</li>
 <li> На кошелек ЮМани через приложение СберБанк Онлайн
