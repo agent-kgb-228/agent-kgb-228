@@ -24,7 +24,7 @@
 <li>Комиссия 0%, но может взыматься комиссия со стороны банка клиента (Комиссия через Сбер - 0%). </li>
 <li>Комиссия 0%.</li>
 <li>Если у вас сбер и вы не знаете как подключиться к СБП вся информация на <a target="_blank" href="https://www.sberbank.ru/ru/person/remittance/sbp" style="margin: 0%; padding: 0%; color: #21BA72;"> сайте СберБанка</a>. </li>
-<li>Если у вас ВТБ и вы не знаете как подключиться к СБП вся информация на<a href="https://www.vtb.ru/personal/online-servisy/perevody-sbp/" style="margin: 0%; padding: 0%; color: #21BA72;"> сайте ВТБ</a>.</li>
+<li>Если у вас ВТБ и вы не знаете как подключиться к СБП вся информация на <a href="https://www.vtb.ru/personal/online-servisy/perevody-sbp/" style="margin: 0%; padding: 0%; color: #21BA72;">сайте ВТБ</a>.</li>
  </ol>
 </div>
 <footer>
