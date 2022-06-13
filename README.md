@@ -27,4 +27,6 @@
             </div>
         
 </footer>
+<img src="https://agent-kgb-228.github.io/favicon3-rus.png" style="width: 96px;"> 
+<img src="https://agent-kgb-228.github.io/favicon3-byn.png" style="width: 96px;">
 
