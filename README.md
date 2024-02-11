@@ -19,7 +19,7 @@
 
 <img src="https://agent-kgb-228.github.io/989d99ds-1920.jpg" > 
 <footer>
- <b>2019-2022 "AGENT-KGB-228"</b> 
+ <b>2019-2024 "AGENT-KGB-228"</b> 
             <div class="re">
                 <a href="/">Главная</a> 
               <a href="/privacy/">Пользователькое соглашение</a> 
